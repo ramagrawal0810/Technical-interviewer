@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Backend Engineer",
+    "description": "We are looking for an experienced Backend Engineer to build scalable REST APIs and microservices. You will work with Python, FastAPI, and PostgreSQL to handle millions of requests per day.",
+    "required_skills": "Python, FastAPI, SQL, REST APIs, Docker, AWS"
+  },
+  {
+    "title": "Frontend Engineer",
+    "description": "Join our Frontend team to build responsive, modern web applications using React and TypeScript. You will create engaging user interfaces and optimize performance for millions of users worldwide.",
+    "required_skills": "React, TypeScript, JavaScript, CSS, HTML, Tailwind CSS"
+  },
+  {
+    "title": "Full Stack Engineer",
+    "description": "We need a Full Stack Engineer who can work across the entire technology stack. You will develop features from database design to UI implementation, ensuring scalability and performance.",
+    "required_skills": "Python, React, TypeScript, SQL, Docker, AWS, Git"
+  }
+]

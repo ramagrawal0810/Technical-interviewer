@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Explain the React component lifecycle and the purpose of useEffect hook.",
+    "category": "React",
+    "difficulty": "Medium",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "How does CSS Grid differ from Flexbox? Give examples of when to use each.",
+    "category": "CSS",
+    "difficulty": "Medium",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "Implement a debounce function in JavaScript that delays function execution.",
+    "category": "Coding",
+    "difficulty": "Hard",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "What is the difference between var, let and const in JavaScript, and what is hoisting?",
+    "category": "JavaScript",
+    "difficulty": "Easy",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "What is the difference between props and state in React, and how does each affect rendering?",
+    "category": "React",
+    "difficulty": "Easy",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "Explain the CSS box model and how box-sizing: border-box changes how an element is sized.",
+    "category": "CSS",
+    "difficulty": "Easy",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "What are semantic HTML elements, and why do they matter for accessibility and SEO?",
+    "category": "HTML & Accessibility",
+    "difficulty": "Easy",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "How does the JavaScript event loop work? Explain microtasks versus macrotasks with a short example.",
+    "category": "JavaScript",
+    "difficulty": "Medium",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "How do Promises and async/await work? How would you run several API calls in parallel and handle one of them failing?",
+    "category": "Async JavaScript",
+    "difficulty": "Medium",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "How would you fetch data in a React component with loading and error states, and avoid race conditions when the user changes the input quickly?",
+    "category": "API Integration",
+    "difficulty": "Medium",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "How do you type React component props and an API response in TypeScript, and what is the difference between any and unknown?",
+    "category": "TypeScript",
+    "difficulty": "Medium",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "A React list with thousands of items renders and scrolls slowly. How would you find the cause, and which techniques would you use to fix it?",
+    "category": "Performance",
+    "difficulty": "Hard",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "How would you structure state in a large React application? When do you choose local state, Context or a library such as Redux, and what are the trade-offs?",
+    "category": "State Management",
+    "difficulty": "Hard",
+    "job_type": "Frontend Engineer"
+  },
+  {
+    "question": "A page feels slow to load on mobile. Walk through how you would analyse it with browser tools and what you would change to improve loading performance and Core Web Vitals.",
+    "category": "Web Performance",
+    "difficulty": "Hard",
+    "job_type": "Frontend Engineer"
+  }
+]

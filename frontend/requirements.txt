@@ -1,0 +1,6 @@
+streamlit>=1.28.0
+requests
+python-dotenv
+pypdf
+streamlit-webrtc>=0.47.0
+# Note: audio conversion uses Python's built-in wave module + PyAV (via streamlit-webrtc)

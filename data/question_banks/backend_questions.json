@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Explain the difference between SQL and NoSQL databases. When would you use each?",
+    "category": "Database Design",
+    "difficulty": "Medium",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "Design a REST API for an e-commerce platform. What endpoints would you create?",
+    "category": "System Design",
+    "difficulty": "Hard",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "Write a Python function that reverses a linked list.",
+    "category": "Coding",
+    "difficulty": "Medium",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "What is the difference between HTTP GET, POST, PUT and PATCH, and when would you use each in a REST API?",
+    "category": "HTTP & REST",
+    "difficulty": "Easy",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "What does a database index do, and what is the trade-off of adding one to a table?",
+    "category": "Database Design",
+    "difficulty": "Easy",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "Explain what a Docker image is, how it differs from a container, and why you would containerise a backend service.",
+    "category": "DevOps",
+    "difficulty": "Easy",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "What do the HTTP status codes 200, 201, 400, 401, 403, 404 and 500 mean? Give an example of when your API would return each.",
+    "category": "HTTP & REST",
+    "difficulty": "Easy",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "How would you implement authentication and authorization for a REST API? Compare session cookies with JWTs.",
+    "category": "Security",
+    "difficulty": "Medium",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "In FastAPI, how do Pydantic models and dependency injection help you validate requests and manage a database session per request?",
+    "category": "FastAPI",
+    "difficulty": "Medium",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "An endpoint is slow because it repeats the same database queries. How would you diagnose it, and where would caching help or hurt?",
+    "category": "Performance & Caching",
+    "difficulty": "Medium",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "How do you design error handling in a backend service so clients get useful responses without leaking internal details?",
+    "category": "Error Handling",
+    "difficulty": "Medium",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "Two requests try to update the same account balance at the same moment. Explain transactions and isolation levels, the bug this can cause, and how you would prevent it.",
+    "category": "Concurrency",
+    "difficulty": "Hard",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "Design a rate limiter for a public API that runs on several server instances. Which algorithm and data store would you use, and what are the failure modes?",
+    "category": "System Design",
+    "difficulty": "Hard",
+    "job_type": "Backend Engineer"
+  },
+  {
+    "question": "How would you make a payment endpoint idempotent so that client retries and network timeouts never charge a customer twice?",
+    "category": "API Reliability",
+    "difficulty": "Hard",
+    "job_type": "Backend Engineer"
+  }
+]

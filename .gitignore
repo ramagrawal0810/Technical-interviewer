@@ -1,0 +1,156 @@
+# ===== Secrets and environment (NEVER commit) =====
+.env
+.env.*
+!.env.example
+backend/.env
+backend/.env.*
+!backend/.env.example
+*.pem
+*.key
+secrets/
+credentials*.json
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+ENV/
+venv/
+.venv/
+backend/venv/
+backend/.venv/
+frontend/venv/
+frontend/.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+
+# ===== Node / frontend build output (none used today, kept for safety) =====
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+npm-debug.log*
+
+# ===== Databases and backups (contain interview and candidate data) =====
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.db.*
+*.db.bak*
+*.sqlite
+*.sqlite3
+*.bak
+*.bak-*
+backend/db_backups/
+
+# ===== Logs and temporary files =====
+*.log
+logs/
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# ===== IDE and OS =====
+.vscode/
+.idea/
+.claude/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Private / generated evaluation records =====
+# Personal learning material
+learning/
+# Generated client documents and evidence (contain reviewer notes, interview answers, reports)
+evaluation/client_documents/
+evaluation/evidence/
+evaluation/human_review/
+evaluation/sample_interviews/runs/
+evaluation/FINAL_CLIENT_EVALUATION_REPORT.md
+evaluation/EVIDENCE_INDEX.md
+evaluation/backups_before_*/
+evaluation/archive_*/
+# Any generated report or PDF is ignored by default ...
+reports/
+*.pdf
+# ... except the fictional sample CVs the seed script needs
+!backend/sample_data/synthetic_cvs/
+!backend/sample_data/synthetic_cvs/*.pdf
+# ... and the redacted public copy of the client report (the original, unredacted files above stay local)
+!evaluation/client_documents_public/
+!evaluation/client_documents_public/*.pdf
+
+# Private experiment outputs and historical reports
+evaluation/results/
+docs/archive/legacy_reports/
+
+# Local debug scripts not required for normal operation
+backend/test_category_filtering.py
+backend/trace_question.py
+backend/trace_questions_origin.py
+backend/trace_questions_origin2.py
+backend/verify_fix_logic.py
+
+# Private experiment outputs and historical reports
+evaluation/results/
+docs/archive/legacy_reports/
+
+# Local debug scripts not required for normal operation
+backend/test_category_filtering.py
+backend/trace_question.py
+backend/trace_questions_origin.py
+backend/trace_questions_origin2.py
+backend/verify_fix_logic.py
+
+# Private data - never upload
+evaluation/results/
+evaluation/evidence/
+evaluation/human_review/
+evaluation/sample_interviews/runs/
+evaluation/client_documents/
+evaluation/FINAL_CLIENT_EVALUATION_REPORT.md
+evaluation/EVIDENCE_INDEX.md
+evaluation/backups_before_*/
+evaluation/archive_*/
+docs/archive/legacy_reports/
+backend/technical_interviewer.db
+backend/db_backups/
+
+# Private project data
+backend/.env
+backend/technical_interviewer.db
+backend/db_backups/
+evaluation/results/
+evaluation/evidence/
+evaluation/human_review/
+evaluation/sample_interviews/runs/
+evaluation/client_documents/
+evaluation/FINAL_CLIENT_EVALUATION_REPORT.md
+evaluation/EVIDENCE_INDEX.md
+evaluation/backups_before_*/
+evaluation/archive_*/
+docs/archive/legacy_reports/

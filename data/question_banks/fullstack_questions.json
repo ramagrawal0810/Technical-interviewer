@@ -1,0 +1,80 @@
+[
+  {
+    "question": "Design an architecture for a real-time chat application. Consider scalability and latency.",
+    "category": "System Design",
+    "difficulty": "Hard",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "Explain how authentication works in a web application. Compare sessions vs tokens.",
+    "category": "Security",
+    "difficulty": "Medium",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "Write a function that finds the longest substring without repeating characters.",
+    "category": "Coding",
+    "difficulty": "Hard",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "Describe what happens end to end from the moment a user submits a login form in the browser until they see their dashboard.",
+    "category": "End-to-End Flow",
+    "difficulty": "Easy",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "What is CORS, why does the browser enforce it, and how would you configure it for a React frontend calling an API on a different origin?",
+    "category": "Integration",
+    "difficulty": "Easy",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "Why should the frontend and backend agree on an API contract, and how would you document and version it?",
+    "category": "API Design",
+    "difficulty": "Easy",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "Describe a Git branching workflow for a team, and how you would resolve a merge conflict.",
+    "category": "Git",
+    "difficulty": "Easy",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "A page loads slowly. How would you work out whether the cause is the frontend, the API or the database?",
+    "category": "Debugging",
+    "difficulty": "Medium",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "Design the data model and API for a to-do app where users share lists and have per-list permissions.",
+    "category": "Database & API Design",
+    "difficulty": "Medium",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "How would you implement file uploads across the React client, the API and storage, including validation and very large files?",
+    "category": "Integration",
+    "difficulty": "Medium",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "What is the N+1 query problem, how does it appear when a UI lists related records, and how would you fix it?",
+    "category": "Database Interaction",
+    "difficulty": "Medium",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "A user was charged twice after clicking Submit twice on a slow connection. How would you reproduce it, fix it and prevent it across the UI, API and database?",
+    "category": "End-to-End Scenarios",
+    "difficulty": "Hard",
+    "job_type": "Full Stack Engineer"
+  },
+  {
+    "question": "How would you roll out a breaking API change without breaking the existing web client? Consider versioning, deployment order and database migrations.",
+    "category": "Architecture",
+    "difficulty": "Hard",
+    "job_type": "Full Stack Engineer"
+  }
+]

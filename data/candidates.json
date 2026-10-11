@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "skills": "Python, FastAPI, SQL, REST APIs",
+    "experience_years": 3,
+    "resume_summary": "Backend engineer with 3 years of experience building REST APIs using FastAPI and PostgreSQL. Experienced with Docker and AWS."
+  },
+  {
+    "name": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "skills": "React, TypeScript, CSS, JavaScript",
+    "experience_years": 4,
+    "resume_summary": "Frontend engineer specializing in React and TypeScript. Built responsive web applications for 500K+ users. Strong CSS and performance optimization skills."
+  },
+  {
+    "name": "Marcus Johnson",
+    "email": "marcus.j@example.com",
+    "skills": "Python, SQL, Docker",
+    "experience_years": 2,
+    "resume_summary": "Junior backend developer with 2 years of experience. Proficient in Python and SQL. Currently learning microservices architecture."
+  },
+  {
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia@example.com",
+    "skills": "JavaScript, React, Node.js, SQL",
+    "experience_years": 5,
+    "resume_summary": "Full stack engineer with 5 years of experience. Comfortable working across frontend and backend. Built e-commerce platforms and SaaS applications."
+  },
+  {
+    "name": "Chen Wei",
+    "email": "chen.wei@example.com",
+    "skills": "HTML, CSS, JavaScript",
+    "experience_years": 1,
+    "resume_summary": "Junior frontend developer with 1 year of experience. Graduated from coding bootcamp. Enthusiastic about learning and improving web technologies."
+  },
+  {
+    "name": "Yuki Tanaka",
+    "email": "yuki.tanaka@example.com",
+    "skills": "Python, FastAPI, PostgreSQL, Docker, AWS",
+    "experience_years": 6,
+    "resume_summary": "Senior backend engineer with 6 years of experience. Expert in building scalable microservices. Led infrastructure migration to AWS."
+  },
+  {
+    "name": "Emma Thompson",
+    "email": "emma.thompson@example.com",
+    "skills": "React, TypeScript, Tailwind CSS, Jest",
+    "experience_years": 3,
+    "resume_summary": "Frontend engineer focused on component design and testing. Expertise in Tailwind CSS and React testing libraries."
+  },
+  {
+    "name": "Raj Kumar",
+    "email": "raj.kumar@example.com",
+    "skills": "Python, Django, SQL",
+    "experience_years": 4,
+    "resume_summary": "Backend engineer with expertise in Django and database optimization. Currently transitioning to FastAPI and modern Python frameworks."
+  },
+  {
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson@example.com",
+    "skills": "Python, React, JavaScript, SQL",
+    "experience_years": 7,
+    "resume_summary": "Experienced full stack engineer. Started as frontend developer and expanded to backend. Expert in architectural decisions and system design."
+  },
+  {
+    "name": "Adil Hassan",
+    "email": "adil.hassan@example.com",
+    "skills": "JavaScript, TypeScript, CSS",
+    "experience_years": 2,
+    "resume_summary": "Frontend developer with 2 years of experience building React applications. Strong focus on accessibility and UX."
+  }
+]
